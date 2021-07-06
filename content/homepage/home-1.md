@@ -1,4 +1,5 @@
 ---
-title: "Homepage 1"
+title: Gems Saga Puzzle
 layout: "1"
+
 ---
