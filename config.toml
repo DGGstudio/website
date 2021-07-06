@@ -8,7 +8,7 @@ title = "DGStudio | Home"
 [[menu.main]]
 name = "Gems Saga Puzzle"
 parent = "Games"
-url = "homepage/hompage-1"
+url = "homepage/home-1"
 weight = 1
 [[menu.main]]
 hasChildren = true
