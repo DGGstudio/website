@@ -5,7 +5,7 @@ description: ''
 image: images/author.jpg
 menu:
   main:
-    name: Policy
+    name: Policies
     weight: 4
 
 ---
