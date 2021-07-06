@@ -1,14 +1,14 @@
 ---
 title: Privacy Policy
 date: 2019-05-14T14:46:10.000+06:00
-description: ""
-image: images/author.jpg
+description: ''
+image: "/images/header.png"
 menu:
   main:
     name: Policies
     weight: 4
----
 
+---
 # Privacy Policy for DRAGON GEM
 
 At DRAGON GEM 's Privacy Policy, accessible from [https://dragongem-studio.netlify.app/policy/](https://dragongem-studio.netlify.app/policy/ "https://dragongem-studio.netlify.app/policy/")[,](https://dragongem.studio/policies, "https://dragongem.studio/policies,") one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by DRAGON GEM 's Privacy Policy and how we use it.
