@@ -6,18 +6,13 @@ summaryLength = "10"
 theme = "parsa"
 title = "DGStudio | Home"
 [[menu.main]]
-name = "Homepage 2"
-parent = "Homepage"
-url = "homepage/home-2"
-weight = 2
-[[menu.main]]
-name = "Homepage 1"
-parent = "Homepage"
+name = "Gems Saga Puzzle"
+parent = "Games"
 url = "homepage/home-1"
 weight = 1
 [[menu.main]]
 hasChildren = true
-name = "Homepage"
+name = "Games"
 weight = 1
 [[menu.main]]
 name = "Contact"
