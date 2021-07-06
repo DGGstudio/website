@@ -1,5 +1,5 @@
 # default config
-baseurl = "https://examplesite.org"
+baseurl = "https://dragongem-studio.netlify.app"
 languageCode = "en-us"
 title = "DGStudio | Home"
 theme = "parsa"
