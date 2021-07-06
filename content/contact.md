@@ -1,7 +1,7 @@
 ---
 title: Contact
 description: This is meta description
-image: images/contact.jpg
+image: "/images/logo-1.png"
 layout: contact
 
 ---
