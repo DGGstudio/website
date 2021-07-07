@@ -11,7 +11,7 @@ type = "post"
 +++
 ### Link download:
 
-[https://play.google.com/store/apps/details?id=com.dragongem.gemssaga](https://play.google.com/store/apps/details?id=com.dragongem.gemssaga "https://play.google.com/store/apps/details?id=com.dragongem.gemssaga")
+(TBC)
 
 Feel free to contact us via:  
 dragongem.gamestudio@gmail.com
