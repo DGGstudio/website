@@ -2,7 +2,6 @@
 categories = []
 date = 2019-05-14T08:46:10Z
 description = "This is meta description"
-draft = true
 image = "/images/m3.jpg"
 tags = []
 title = "Next Game"
