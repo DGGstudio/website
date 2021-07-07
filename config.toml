@@ -3,8 +3,8 @@ googleAnalytics = ""
 languageCode = "en-us"
 paginate = 6
 summaryLength = "10"
-theme = "parsa"
-title = "DGStudio | Home"
+theme = "DGG"
+title = "DGGStudio | Home"
 [[menu.main]]
 name = "Gems Saga Puzzle"
 parent = "Games"
@@ -29,14 +29,12 @@ address = "Da Nang, Viet Nam"
 author = "DRAGON GEM"
 author_image = "images/header.png"
 bio = "We're an indie mobile game studio."
-contact_form_action = "#"
-copyright = "Copyright &copy; 2021 DGStudio"
+copyright = "Copyright &copy; 2021 DGGStudio"
 description = "This is meta description"
 email = "dragongem.gamestudio@gmail.com"
 home = "Home"
 layout = "1"
 logo = "images/logo.png"
-mobile = "#"
 preloader = true
 search = true
 [params.cookies]
@@ -81,7 +79,4 @@ icon = "ti-twitter-alt"
 link = "#"
 [[params.social]]
 icon = "ti-linkedin"
-link = "#"
-[[params.social]]
-icon = "ti-github"
 link = "#"
