@@ -25,18 +25,18 @@ weight = 2
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-address = "6 rip carl Avenue CA 90733"
-author = "John Doe"
-author_image = "images/banner-img.png"
-bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
+address = "Da Nang, Viet Nam"
+author = "DRAGON GEM"
+author_image = "images/header.png"
+bio = "We're an indie mobile game studio."
 contact_form_action = "#"
 copyright = "Copyright &copy; 2021 DGStudio"
 description = "This is meta description"
-email = "exmaple@ymail.com"
+email = "dragongem.gamestudio@gmail.com"
 home = "Home"
 layout = "1"
 logo = "images/logo.png"
-mobile = "+90 000 333 22"
+mobile = "#"
 preloader = true
 search = true
 [params.cookies]
@@ -75,7 +75,7 @@ link = "plugins/search/mark.js"
 link = "plugins/search/search.js"
 [[params.social]]
 icon = "ti-facebook"
-link = "https://facebook.com/themefisher"
+link = "#"
 [[params.social]]
 icon = "ti-twitter-alt"
 link = "#"
