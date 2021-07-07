@@ -9,11 +9,9 @@ title = "Our first Game"
 type = "post"
 
 +++
-### Hi, we are **DRAGON GEM Game Studio**
+### Link download:
 
-We're an indie team that started to create mobile games since 2021.  
-Our purpose is to make the fun and addictive for gamers, no matter what you're a mobile gamer or PC gamer or console gamer.  
-Hope you enjoy our products and support us.
+[https://play.google.com/store/apps/details?id=com.dragongem.gemssaga](https://play.google.com/store/apps/details?id=com.dragongem.gemssaga "https://play.google.com/store/apps/details?id=com.dragongem.gemssaga")
 
 Feel free to contact us via:  
 dragongem.gamestudio@gmail.com
