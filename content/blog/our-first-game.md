@@ -2,7 +2,6 @@
 categories = []
 date = 2019-05-14T08:46:10Z
 description = "This is meta description"
-draft = true
 image = "/images/gameicon512_2.png"
 tags = []
 title = "Our first Game"
