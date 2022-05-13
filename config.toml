@@ -1,55 +1,29 @@
+# default config
 baseurl = "https://teamv-studio.netlify.app"
-googleAnalytics = ""
 languageCode = "en-us"
-paginate = 6
-summaryLength = "10"
+title = "TeamV | Home"
 theme = "parsa"
-title = "DGGStudio | Home"
-[[menu.main]]
-name = "Gems Crush - Match Puzzle"
-parent = "Games"
-url = "homepage/home-1"
-weight = 1
-[[menu.main]]
-hasChildren = true
-name = "Games"
-weight = 2
-[[menu.main]]
-name = "About"
-url = "about"
-weight = 3
-[[menu.main]]
-name = "Contact"
-url = "contact"
-weight = 4
+summaryLength = "10"
+paginate = 6
+# google analytics
+googleAnalytics = "" # example : UA-123-45
 
+# output
 [outputs]
 home = ["HTML", "RSS", "JSON"]
-[params]
-address = "Da Nang, Viet Nam"
-author = "DRAGON GEM"
-author_image = "images/header.png"
-bio = "We're an indie mobile game studio."
-copyright = "Copyright &copy; 2022 DGGStudio"
-description = "This is meta description"
-email = "teamv.gamestudio@gmail.com"
-home = "Home"
-layout = "4"
-logo = "images/logo.png"
-preloader = true
-search = true
-[params.cookies]
-enable = true
-expire_days = 2
-[params.instafeed]
-access_token = "IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn"
-enable = true
+
+[markup.goldmark.renderer]
+unsafe = true
+
+# CSS Plugins
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
 link = "plugins/slick/slick.css"
 [[params.plugins.css]]
 link = "plugins/themify-icons/themify-icons.css"
+
+# JS Plugins
 [[params.plugins.js]]
 link = "plugins/jQuery/jquery.min.js"
 [[params.plugins.js]]
@@ -72,12 +46,82 @@ link = "plugins/search/fuse.min.js"
 link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
+
+# navigation
+[[menu.main]]
+name = "Homepage"
+url = ""
+weight = 1
+hasChildren = true
+
+[[menu.main]]
+hasChildren = true
+name = "Games"
+weight = 2
+
+[[menu.main]]
+name = "Gems Saga Puzzle"
+parent = "Games"
+url = "blog/our-first-game/"
+weight = 1
+
+[[menu.main]]
+name = "About"
+url = "about/"
+weight = 3
+
+[[menu.main]]
+name = "Contact"
+url = "contact/"
+weight = 4
+
+# deult parameter
+[params]
+logo = "images/logo.png"
+home = "Home"
+# theme layout ( two layout is available, "1" and "2" )
+layout = "1"
+# Meta data
+description = "This is meta description"
+# Preloader
+preloader = true
+# search
+search = true
+# about author
+author = "TeamV Studio"
+author_image = "images/header.png"
+bio = "We're an indie mobile game studio."
+# Contact info
+# mobile = "+90 000 333 22"
+email = "teamv.gamestudio@gmail.com"
+address = "Da Nang, Viet Nam"
+# Contact Form Action
+contact_form_action = "#"
+# copyright
+copyright = "Copyright &copy; 2022 TeamV Studio"
+
+# Instagram feed
+[params.instafeed]
+enable = true
+access_token = "IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn"
+
+# cookies
+[params.cookies]
+enable = true
+expire_days = 2
+
+# social site
 [[params.social]]
 icon = "ti-facebook"
 link = "#"
 [[params.social]]
 icon = "ti-twitter-alt"
 link = "#"
+
 [[params.social]]
 icon = "ti-linkedin"
 link = "#"
+
+# [[params.social]]
+# icon = "ti-github"
+# link = "#"
