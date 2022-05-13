@@ -13,4 +13,4 @@ type = "post"
 [https://play.google.com/store/apps/details?id=com.dragongem.gemssaga](https://play.google.com/store/apps/details?id=com.dragongem.gemssaga "https://play.google.com/store/apps/details?id=com.dragongem.gemssaga")
 
 Feel free to contact us via:  
-dragongem.gamestudio@gmail.com
+teamv.gamestudio@gmail.com

@@ -1,5 +1,5 @@
 ---
-title: Gems Saga Puzzle
+title: Gems Crush - Match Puzzle
 layout: "1"
 
 ---
