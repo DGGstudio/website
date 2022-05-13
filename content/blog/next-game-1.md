@@ -13,4 +13,4 @@ type = "post"
 (TBC)
 
 Feel free to contact us via:  
-dragongem.gamestudio@gmail.com
+teamv.gamestudio@gmail.com
