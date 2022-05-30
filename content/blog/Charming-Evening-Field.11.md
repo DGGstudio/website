@@ -8,7 +8,7 @@ categories: []
 tags: []
 
 ---
-### Hi, we are **VTeam Studio**
+### Hi, we are **Team V Studio**
 
 We're an indie team that started to create mobile games since 2021.  
 Our purpose is to make the fun and addictive for gamers, no matter what you're a mobile gamer or PC gamer or console gamer.  
