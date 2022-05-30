@@ -1,7 +1,7 @@
 # default config
 baseurl = "https://teamv-studio.netlify.app"
 languageCode = "en-us"
-title = "TeamV | Home"
+title = "Team V | Home"
 theme = "parsa"
 summaryLength = "10"
 paginate = 6
@@ -60,7 +60,7 @@ name = "Games"
 weight = 2
 
 [[menu.main]]
-name = "Gems Saga Puzzle"
+name = "Gems Blast - Match Puzzle"
 parent = "Games"
 url = "blog/our-first-game/"
 weight = 1
