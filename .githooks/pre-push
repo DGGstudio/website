@@ -1,0 +1,4 @@
+#!/bin/sh
+
+# Lint code before push
+exec make lint

@@ -1,0 +1,77 @@
+body {
+  @apply bg-white dark:bg-gray-900 text-gray-800 dark:text-gray-300 antialiased scroll-smooth;
+}
+// https://flowbite.com/docs/typography/headings/
+h1 {
+  @apply text-5xl dark:text-white;
+}
+
+h2 {
+  @apply text-4xl dark:text-white;
+}
+
+h3 {
+  @apply text-2xl dark:text-white;
+}
+
+h4 {
+  @apply text-xl dark:text-white;
+}
+
+h5 {
+  @apply text-lg dark:text-white;
+}
+
+.bg-invert {
+  @apply bg-gray-100 dark:bg-gray-800;
+}
+
+.content {
+  article {
+    // @apply text-justify;
+
+    h1 {
+      @apply mb-16 text-4xl;
+    }
+
+    h2 {
+      @apply my-8 pb-2 text-3xl border-b border-b-gray-200 dark:border-b-gray-600;
+    }
+
+    h3 {
+      @apply my-6 text-2xl;
+    }
+
+    h4 {
+      @apply my-4 text-xl;
+    }
+
+    p {
+      @apply my-4;
+
+      // + p {
+      //   @apply mb-8;
+      // }
+    }
+
+    a {
+      @apply font-medium text-blue-600 dark:text-blue-500 hover:underline;
+    }
+
+    ul {
+      @apply list-disc list-inside my-4 space-y-1;
+
+      li {
+        @apply ml-4;
+      }
+    }
+
+    ol {
+      @apply list-decimal list-inside  my-4 space-y-1;
+
+      li {
+        @apply ml-4;
+      }
+    }
+  }
+}
