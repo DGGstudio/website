@@ -1,4 +1,5 @@
 import Feature from './Feature.svelte';
+import GameItem from './GameItem.svelte';
 import Hero from './Hero.svelte';
 
-export { Feature, Hero };
+export { Feature, GameItem, Hero };

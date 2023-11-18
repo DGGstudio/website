@@ -10,6 +10,7 @@ image: '/images/logo-lg.png'
 Our purpose is to make the fun and addictive for gamers, no matter what you're a mobile gamer or PC gamer or console gamer.
 
 ## Gems Blast - Match Puzzle
+
 ![img](/images/match-puzzle/splash.png)
 
 # Link download:
