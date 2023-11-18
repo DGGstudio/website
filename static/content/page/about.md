@@ -7,8 +7,10 @@ image: '/images/logo-lg.png'
 
 ### Hi, we are **Team V Studio**
 
-We're an indie team that started to create mobile games since 2021.
+A young & passionate game development team lead by an experienced Game Producer & Game Designer fully focus on delivering high quality games with unique ideas.
+
 Our purpose is to make the fun and addictive for gamers, no matter what you're a mobile gamer or PC gamer or console gamer.
+
 Hope you enjoy our products and support us.
 
 Feel free to contact us via:
