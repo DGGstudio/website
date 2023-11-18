@@ -1,6 +1,6 @@
 ---
 title: Gems Blast - Match Puzzle
-description: ''
+description: 'A puzzle game designed for puzzle solving master!'
 ---
 
 ### Link download:
