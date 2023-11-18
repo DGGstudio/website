@@ -5,7 +5,7 @@ description: ''
 
 ### Link download:
 
-[https://play.google.com/store/apps/details?id=com.dragongem.gemssaga](https://play.google.com/store/apps/details?id=com.dragongem.gemssaga 'https://play.google.com/store/apps/details?id=com.dragongem.gemssaga')
+[https://play.google.com/store/apps/details?id=com.teamvstudio.gemsblast](https://play.google.com/store/apps/details?id=com.teamvstudio.gemsblast 'https://play.google.com/store/apps/details?id=com.teamvstudio.gemsblast')
 
-Feel free to contact us via:
+Contact us to bring your ideas to life:
 [teamv.gamestudio@gmail.com](mailto:teamv.gamestudio@gmail.com)
