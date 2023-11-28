@@ -4,11 +4,10 @@ export const games = {
   title: 'Team V - Games',
   description: 'We’re an indie team that started to create games since 2021.',
   hero: {
-    background: 'https://www.habby.fun/static/media/game_background.4e08ad02.png',
-    headline: '<p class="pt-72">WE ARE A GAMING STUDIO!</p>',
+    background: '/images/match-puzzle/header.png',
+    headline: '<p class="pt-72">WE CREATE FUN!</p>',
     content: `
-      Habby is a game studio dedicated to creating timeless interactive entertainment
-      that inspires human connections worldwide.
+      Contact us to bring your stunning ideas to life.
       `,
     buttons: []
   },
