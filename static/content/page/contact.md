@@ -23,3 +23,5 @@ Title: [Game Name][Account Deletion Request][UID]
 (Please attach the screenshot that shows your UID in the description of the email)
 
 And send to us via: [teamv.gamestudio@gmail.com](mailto:teamv.gamestudio@gmail.com)
+
+All of your data will be deleted.
