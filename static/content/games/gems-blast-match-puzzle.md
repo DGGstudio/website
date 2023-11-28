@@ -1,7 +1,7 @@
 ---
 title: Gems Blast - Match Puzzle
 description: A puzzle game designed for puzzle solving master!
-img: https://www.habby.fun/static/media/Survivor.3d98a59c.png
+img: /images/match-puzzle/feature-01.png
 ---
 
 ### Link download
