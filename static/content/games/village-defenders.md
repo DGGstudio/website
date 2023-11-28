@@ -1,7 +1,7 @@
 ---
 title: Village Defenders
 description: Coming soon!
-img: https://www.habby.fun/static/media/souls.564ca7ed.png
+img: /images/game-2/feature-01.jpg
 ---
 
 TBD
