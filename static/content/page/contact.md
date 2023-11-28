@@ -15,3 +15,11 @@ Hope you enjoy our products and support us.
 
 Feel free to contact us via:
 [teamv.gamestudio@gmail.com](mailto:teamv.gamestudio@gmail.com)
+
+
+## **If you wish to to delete your game account, please send us an email as template below:**
+
+Title: [Game Name][Account Deletion Request][UID]
+(Please attach the screenshot that shows your UID in the description of the email)
+
+And send to us via: [teamv.gamestudio@gmail.com](mailto:teamv.gamestudio@gmail.com)
